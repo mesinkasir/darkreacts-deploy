@@ -7,6 +7,7 @@ const SinglePage = ({ match }) => {
   return (
     <>
       <Helmet>
+    <meta name="google-site-verification" content="WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc" />
         <title>{article.title}</title>
         <meta content="{article.desc}" name=" description" />
         <meta content="{article.title}" property="og:title" />
