@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 const ArticleList = ({ articles }) => (
   <>
     <Helmet>
+  <meta name="google-site-verification" content="WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc" />
       <title>Dark React</title>
       <meta
         name="description"
