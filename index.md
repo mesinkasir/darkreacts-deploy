@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# React Dark Blog themes template
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/darkreacts-deploy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo [https://darkreacteweb.pages.dev/](https://darkreacteweb.pages.dev/)
 
-### Markdown
+Download complete themes here : [https://github.com/mesinkasir/darkreactblog](https://github.com/mesinkasir/darkreactblog)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----------
 
-```markdown
-Syntax highlighted code block
+Demo dark blog [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
-# Header 1
-## Header 2
-### Header 3
+Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
+[download card themes →](https://github.com/mesinkasir/darkreactblog/tree/main/cardthemes)
 
-- Bulleted
-- List
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
 
-1. Numbered
-2. List
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
 
-**Bold** and _Italic_ and `Code` text
+Demo 4 [https://reactindo.pages.dev/](https://reactindo.pages.dev/)
 
-[Link](url) and ![Image](src)
-```
+Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ npm install
++ npm start
++ npm run build
 
-### Jekyll Themes
+![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-CDYbsSP6FCo/YMJDx_WMehI/AAAAAAAAPI8/s3PUXoN-Nl0YZ0fJPAfAqnWu4hzDqc_ZACLcBGAsYHQ/s1348/Screenshot%2B2021-06-10%2Bat%2B23-45-56%2BAxcora%2Bdev.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/darkreacts-deploy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+dark react
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-------
+
+Demo Scan here..
+
+![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-GjD3PW46xJA/YLxfmpLmCxI/AAAAAAAAO-Y/Wq_nuMb_4yIYSh01wu0H09bilVRzgP9EwCLcBGAsYHQ/s370/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2B%25281%2529.png)
+
+-------
+
+Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
+
+Demo [https://darkreacteweb.pages.dev/](https://darkreacteweb.pages.dev/)
+
+Download complete themes here : [https://github.com/mesinkasir/darkreactblog](https://github.com/mesinkasir/darkreactblog)
+
+----------
+
+Demo dark blog [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+
+Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
+[download card themes →](https://github.com/mesinkasir/darkreactblog/tree/main/cardthemes)
+
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
+
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
+
+Demo 4 [https://reactindo.pages.dev/](https://reactindo.pages.dev/)
+
+Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
+
+-----------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
