@@ -2,7 +2,7 @@
 
 Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
 
-Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+Demo [https://darkreacteweb.pages.dev/](https://darkreacteweb.pages.dev/)
 
 Demo dark blog [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
@@ -51,7 +51,7 @@ Demo Scan here..
 
 Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
 
-Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+Demo [https://darkreacteweb.pages.dev/](https://darkreacteweb.pages.dev/)
 
 Demo dark blog [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
