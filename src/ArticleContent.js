@@ -44,7 +44,6 @@ const articles = [
     content: [
       `React website template with blog area , including animation in design and unique , download now for free. `,
       `Github repo : https://github.com/mesinkasir/darkreactblog.`,
-      `Sourceforge : https://sourceforge.net/projects/pembuatanweb/.`,
       `Demo : https://kasironline.pages.dev.`,
       `Demo 2 : https://sidoarjo.pages.dev/`,
       `Premium version : https://surabaya.pages.dev/`
@@ -89,14 +88,7 @@ use money transfer like western union or moneygram and sent order to we bank acc
     img:
       'https://1.bp.blogspot.com/-LERGwh6pYwA/YMI6PtKtB3I/AAAAAAAAPIs/vr41HLxJacwsnQlickjZY6lfBJGd3_2uwCLcBGAsYHQ/s1349/free%2Breact%2Bwebsite%2Bdownload%2B%25283%2529.png',
     content: [
-      `Premium themes for dark react, you can make donation just only $.10 on our bank account,cek demo on https://reactindo.pages.dev/ , We accept online payment using money transfer , so you can order by using moneygram or western union to sent money, 
-after transaction success you can use your web app. and active by default for one years, 
-use money transfer like western union or moneygram and sent order to we bank account.`,
-      `DONATE : $ 10`,
-      `BANK CENTRAL ASIA`,
-      `ACCOUNT NO : 0181884109`,
-      `ACCOUNT NAME:  SUCI CHANIFAH`,
-      `IBAN/SWIFT CODE : CENAIDJA.`
+      `Premium themes for dark react, you can hire our team dev on https://www.fiverr.com/creativitas.`
     ]
   },
 
