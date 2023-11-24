@@ -16,13 +16,13 @@ const Contact = () => (
     <div className="collapse" id="contact">
       <div className="card card-body">
         <a
-          href="https://wa.me/6285646104747?text=Axcoraapps%20saya%20mau%20informasi%20WebApp%0A"
+          href="https://wa.me/62895339403223?text=Axcoraapps%20saya%20mau%20informasi%20WebApp%0A"
           className="btn btn-success col-12"
           target="_blank"
         >
           Chat
         </a>
-        <a href="tel:+6285331361404" className="btn btn-primary col-12">
+        <a href="tel:+62895339403223" className="btn btn-primary col-12">
           Call us
         </a>
         <a href="mailto:axcora@gmail.com" className="btn btn-danger col-12">
